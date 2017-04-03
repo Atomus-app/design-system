@@ -1,0 +1,27 @@
+// Accent colors
+$color-primary:         $color-info;
+$color-secondary:       $color-black;
+
+// Neutral colors
+$color-white:           #fff;
+$color-black;           #000;
+
+// General colors
+$color-success:
+$color-info:
+$color-warning:
+$color-danger:
+
+// Color scale
+$color-primary-light:   lighten($color-primary, 15%);
+$color-primary-dark:    darken($color-primary, 15%);
+
+// Links
+$color-link:            $color-info;
+$color-link-hover:      darken($color-info, 15%);
+$color-link-muted:      $color-black;
+$color-link-neutral:
+
+// Social networks
+
+// Gradients
