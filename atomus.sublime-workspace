@@ -1,0 +1,249 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"max",
+				"max-width"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 165.0,
+		"last_filter": "package control: install",
+		"selected_items":
+		[
+			[
+				"package control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 453.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/stan/Git/design-system"
+	],
+	"file_history":
+	[
+		"/Users/stan/Git/design-system/basic/normalize.scss",
+		"/Users/stan/node_modules/bf-solid/_lib/_solid-base.scss",
+		"/Users/stan/node_modules/bf-solid/_lib/solid.scss",
+		"/Users/stan/node_modules/bf-solid/package.json",
+		"/Users/stan/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/stan/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/stan/node_modules/bf-solid/_lib/solid-utilities/_colors.scss",
+		"/Users/stan/node_modules/bf-solid/_lib/solid-base/_base.scss",
+		"/Users/stan/node_modules/bf-solid/_lib/solid-components/_cards.scss",
+		"/Users/stan/node_modules/bf-solid/_lib/solid-components/_button-groups.scss",
+		"/Users/stan/node_modules/bf-solid/_lib/solid-helpers/_mixins.scss",
+		"/Users/stan/node_modules/bf-solid/_lib/solid-base/_typography.scss",
+		"/Users/stan/node_modules/bf-solid/_lib/solid-base/_tables.scss",
+		"/Users/stan/node_modules/bf-solid/_lib/solid-base/_normalize.scss",
+		"/Users/stan/node_modules/bf-solid/_lib/_solid-components.scss",
+		"/Users/stan/node_modules/basscss-layout/index.css",
+		"/Users/stan/node_modules/basscss-layout/css/layout.css",
+		"/Users/stan/node_modules/basscss/css/basscss.css",
+		"/Users/stan/node_modules/basscss-align/css/align.css",
+		"/Users/stan/Downloads/slides.v3.0.1/index.html",
+		"/Users/stan/node_modules/basscss/src/basscss.css",
+		"/Users/stan/node_modules/basscss-typography/index.css",
+		"/Users/stan/node_modules/basscss-type-scale/index.css",
+		"/Users/stan/node_modules/basscss-type-scale/css/type-scale.css",
+		"/Users/stan/node_modules/basscss-hide/index.css",
+		"/Users/stan/node_modules/basscss-grid/index.css",
+		"/Users/stan/node_modules/basscss-border/css/border.css",
+		"/Users/stan/node_modules/basscss-margin/css/margin.css",
+		"/Users/stan/node_modules/basscss-margin/index.css",
+		"/Users/stan/node_modules/basscss-position/index.css",
+		"/Users/stan/node_modules/basscss-border/package.json",
+		"/Users/stan/node_modules/basscss-align/index.css",
+		"/Users/stan/Downloads/salesforce-lightning-design-system-2.2.1/assets/styles/salesforce-lightning-design-system.css",
+		"/Users/stan/Desktop/stanbg/index.html",
+		"/Users/stan/Desktop/stanbg/main.css",
+		"/Users/stan/Downloads/bootstrap-4.0.0-alpha.4/scss/_reboot.scss",
+		"/Users/stan/Desktop/.htaccess",
+		"/Users/stan/Desktop/humans.txt",
+		"/Users/stan/Desktop/robots.txt",
+		"/Users/stan/Desktop/stanbg/starter-template.css",
+		"/Users/stan/Downloads/bootstrap-4.0.0-alpha.3/docs/examples/starter-template/index.html",
+		"/Users/stan/Downloads/bootstrap-4.0.0-alpha.3/docs/examples/starter-template/starter-template.css",
+		"/Users/stan/Downloads/font-bundles-master/bundle/Ionicons.json"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ignored",
+			"RewriteEngine On",
+			"RewriteCond %{HTTP_HOST} ^www\\.(.*)",
+			".com",
+			"com",
+			"skirilov",
+			"mod_rewrite",
+			"Redirect 301",
+			"301",
+			"redirect",
+			"3s",
+			"color"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "atomus.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 198.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
