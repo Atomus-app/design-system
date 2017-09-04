@@ -1,3 +1,3 @@
 # Atomus design system
 
-Welcome to the [Atomus.io Design System](https://atomus.io).
+Welcome to the [Atomus.io Design System](http://atomus.io).
